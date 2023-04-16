@@ -295,14 +295,12 @@
           </packing>
         </child>
         <child>
-          <object class="GtkComboBoxText" id="combo_baud_rate">
+          <object class="GtkComboBoxText" id="combo_byte_size">
             <property name="name">combo_byte_size</property>
             <property name="visible">True</property>
             <property name="can-focus">False</property>
-            <property name="active">0</property>
-            <property name="active-id">eight_bits</property>
             <items>
-              <item id="eight_bits" translatable="yes">8</item>
+              <item translatable="yes">8</item>
               <item translatable="yes">7</item>
               <item translatable="yes">6</item>
               <item translatable="yes">5</item>
