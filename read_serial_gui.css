@@ -1,0 +1,16 @@
+.button_start {
+    background: none;
+    background-color: lightgreen;
+}
+
+.button_stop {
+    background: none;
+    background-color: #f6a2b3;
+}
+
+.console {
+    border-width: 2px;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: black;
+}
